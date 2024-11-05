@@ -66,7 +66,7 @@ class Car:
         print(f"Car object {self.__brand} destroyed.")
 
 def main():
-    car1 = Car(300, "BMW", 290, 50000, "Nazar")
+    car1 = Car(300, "BMW", 280, 50000, "Nazar")
     car2 = Car(350, "Ferrari", 320, 150000, "Vlad")
     car3 = Car()
 
